@@ -29,6 +29,8 @@ body, html {
 }
 .CC {
   font-size: 75px;
+  color: white;
+  text-shadow: 10px 10px 10px #000000;
  
 }
 .navbar {
